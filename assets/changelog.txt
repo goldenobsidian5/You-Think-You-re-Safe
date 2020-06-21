@@ -1,0 +1,54 @@
+[ == Thank you for choosing death, here's my personal document for notes and such == ]
+
+
+
+[ Changes (vague edition) ]
+
+Ghasts: coming for you
+
+Flint and steel: texture, ignite sound
+
+Evoker: summoning sound, vex, skin texture
+
+Creeper: aww man
+
+Skeletons: Spooky
+
+Enderman: Obama
+
+Player: Hurt sounds, eating sounds
+
+Villagers: oof
+
+Iron Golems: heavy
+
+Gold helmet.
+
+
+
+
+TODO:
+owo dogs?
+iron golem "I smell jojo" or other heavy voices
+
+cat nyan cat
+
+something with alex jones (possibly ravagers)
+
+
+(not necessary)
+MAYBE TODO:
+fix "aww man" from creepers
+change one of the hurt sounds from oup to the normal one, some mobs are playing it when they fall and it doesnt make sense
+
+check iFunny likes, it's got some good shit, including bees that turn angry
+
+
+TO CLEAN UP:
+
+\assets\minecraft\sounds\mob\evocation_illager
+\assets\minecraft\sounds\random
+\assets\minecraft\textures\entity\enderman
+\assets\minecraft\sounds\damage
+
+
