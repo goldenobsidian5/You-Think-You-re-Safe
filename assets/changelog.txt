@@ -47,6 +47,9 @@ Red TF2 Heavy (including sounds)
 -Cats
 Nyan
 
+-Chicken
+Nice cock
+
 -Bees
 xD and O.O
 
@@ -122,10 +125,7 @@ change one of the hurt sounds from oup to the normal one, some mobs are playing 
 
 TO CLEAN UP:
 
-\assets\minecraft\sounds\mob\evocation_illager
 \assets\minecraft\sounds\random
-\assets\minecraft\textures\entity\enderman
-\assets\minecraft\sounds\damage
 
 
 
