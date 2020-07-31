@@ -1,51 +1,123 @@
-[ == Thank you for choosing death, here's my personal document for notes and such == ]
+[ == Thank you for choosing death, here's everything I've changed for my personal bullshitting == ]
 
 
+[ Blocks ]
 
-[ Changes (vague edition) ]
+-Enchanting Table
+New bookshelf particles
 
-Ghasts: coming for you
 
-Flint and steel: texture, ignite sound
+[ Items ]
 
-Evoker: summoning sound, vex, skin texture
+-Chicken names
+cooked/raw turned to
+Nice cock and Raw cock
 
-Creeper: aww man
+-Flint and Steel
+Boi hand look / sounds
 
-Skeletons: Spooky
+-Totem of Undying
+Uno reverse card
 
-Enderman: Obama
+-Golden Helmet
+Kurger Bing (with alternate texture)
 
-Player: Hurt sounds, eating sounds
 
-Villagers: oof
+[ Mobs ]
 
-Iron Golems: heavy
+-All
+Subtitles make all mobs FUCKING die instead
 
-Gold helmet.
+-Player
+Eating sounds
+Damage sounds
 
-Cats
+-Creeper
+Aww man
 
-Bees
+-Skeletons
+Spooky Scary
+
+-Villager
+Oof
+
+-Iron Golems
+Red TF2 Heavy (including sounds)
+
+-Cats
+Nyan
+
+-Bees
+xD and O.O
+
+-Endermen
+Presidential
+
+-Evoker
+Giorno Giovanna
+Summoning sound
+
+-Vex
+Menacing
+
+-Ghasts
+New look
+Shoots hands
+
+-Ender Dragon
+Won't give you up
+
+-Polar Bears
+pola bears :)
+
+
+[ Music ]
+
+-Dragon fight
+You'll see
+
+
+[ Lang (en_us) ]
+
+Force OP by holding F3+C
+New tutorial
+various other things changed
+
+
+------------------------------------------
+My personal notes:
+
+LANGUAGE:
+beds now say there are hot singles in your area looking to FUCK
+raw chicken > raw cock
+cooked chicken > nice cock
+ice bucket challenge > Gay Obsidian
+Serious dedication > You think this is a fucking joke?
+
+
 
 
 
 
 TODO:
+
+chickens say nice cock bro
+
 owo dogs?
-iron golem "I smell jojo" or other heavy voices
 
-cat nyan cat
+something with alex jones (possibly ravagers) (nah spiders)
 
-something with alex jones (possibly ravagers)
+magma cube into something that would look funny splitting up like that
+
+shrek? (slimes)
+
+caramelldansen clips playing echo-ey in the distance in the nether
 
 
 (not necessary)
 MAYBE TODO:
 fix "aww man" from creepers
 change one of the hurt sounds from oup to the normal one, some mobs are playing it when they fall and it doesnt make sense
-
-check iFunny likes, it's got some good shit, including bees that turn angry
 
 
 TO CLEAN UP:
@@ -54,5 +126,8 @@ TO CLEAN UP:
 \assets\minecraft\sounds\random
 \assets\minecraft\textures\entity\enderman
 \assets\minecraft\sounds\damage
+
+
+
 
 
