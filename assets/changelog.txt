@@ -86,7 +86,7 @@ You'll see
 Ambient distant CaramellDansen
 (Cues on 100% Mood percentage)
 
-The nether is now alive
+The nether is now alive and meaty
 
 
 [ Lang (en_us) ]
