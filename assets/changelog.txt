@@ -95,6 +95,10 @@ Force OP by holding F3+C
 New tutorial
 various other things changed
 
+[ Texts ]
+
+New Splash phrases
+
 [ Optifine Only ]
 
 Creepers replaced with Captain Sparklez
