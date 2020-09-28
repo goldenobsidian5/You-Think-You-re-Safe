@@ -6,12 +6,18 @@
 -Enchanting Table
 New bookshelf particles
 
+Breaking animation
+
+Bell sounds
+
 
 [ Items ]
 
 -Chicken names
 cooked/raw turned to
 Nice cock and Raw cock
+
+Elytras
 
 -Flint and Steel
 Boi hand look / sounds
@@ -54,7 +60,7 @@ Nyan
 Nice cock
 
 -Bees
-xD and O.O
+xD and O.O and -_-
 
 -Endermen
 Presidential
@@ -121,6 +127,12 @@ Serious dedication > You think this is a fucking joke?
 
 TODO:
 
+potions into bleach
+
+lingering potions are molotovs
+
+throwables are grenades
+
 chickens say nice cock bro
 
 owo dogs?
@@ -134,6 +146,11 @@ splash phrases
 shrek? (slimes)
 
 caramelldansen clips playing echo-ey in the distance in the nether
+
+more crunch to the nether sounds for ores
+
+potions, bleach, grenades, febreeze (with duct tape holding the trigger)
+drinking sounds too
 
 
 (not necessary)
