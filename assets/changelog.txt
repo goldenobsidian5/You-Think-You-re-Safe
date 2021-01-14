@@ -107,9 +107,11 @@ Force OP by holding F3+C
 New tutorial
 various other things changed
 
+
 [ Texts ]
 
 New Splash phrases
+
 
 [ Optifine Only ]
 
@@ -125,6 +127,8 @@ raw chicken > raw cock
 cooked chicken > nice cock
 ice bucket challenge > Gay Obsidian
 Serious dedication > You think this is a fucking joke?
+Bell > Taco Bell
+Ink Sac > Cum Sac
 
 
 
@@ -133,13 +137,7 @@ Serious dedication > You think this is a fucking joke?
 
 TODO:
 
-potions into bleach
-lingering potions are molotovs
-throwables are grenades
-potions, bleach, grenades, febreeze (with duct tape holding the trigger)
-drinking sounds too
-
-owo dogs?
+drinking sounds for potions? cant do grapefruit
 
 magma cube into something that would look funny splitting up like that
 
