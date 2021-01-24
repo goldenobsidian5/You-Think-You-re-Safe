@@ -10,6 +10,12 @@ Breaking animation
 
 Bell sounds
 
+SpongeBob
+
+Villager Chests
+
+Pillager Chests
+
 
 [ Items ]
 
@@ -147,6 +153,8 @@ shrek? (slimes)
 (not necessary)
 MAYBE TODO:
 fix "aww man" from creepers
+
+fix flint and steel transparency
 
 more crunch to the nether sounds for ores?
 
