@@ -16,6 +16,10 @@ Villager Chests
 
 Pillager Chests
 
+[ Paintings ]
+
+-Fighters
+Survival spawn
 
 [ Items ]
 
@@ -33,6 +37,10 @@ Uno reverse card
 
 -Golden Helmet
 Kurger Bing (with alternate texture)
+
+-Potions
+Fun new textures
+Drinking sounds
 
 
 [ Mobs ]
@@ -82,6 +90,9 @@ Menacing
 New look
 Shoots hands
 
+-Hoglin
+Poggers
+
 -Ender Dragon
 Won't give you up
 
@@ -116,7 +127,7 @@ various other things changed
 
 [ Texts ]
 
-New Splash phrases
+New Splash phrases (and panorama :p)
 
 
 [ Optifine Only ]
@@ -142,6 +153,8 @@ Ink Sac > Cum Sac
 
 
 TODO:
+
+add borders to paintings if you're feeling quirky O.O
 
 drinking sounds for potions? cant do grapefruit
 

@@ -4387,5 +4387,16 @@
   "title.singleplayer": "Sam was here",
   "title.multiplayer.realms": "Sam was here",
   "title.multiplayer.lan": "Sam was here",
-  "title.multiplayer.other": "Sam was here"
+  "title.multiplayer.other": "Sam was here",
+  "item.minecraft.hoglin_spawn_egg": "Poglin Spawn Egg",
+  "entity.minecraft.hoglin": "Poglin",
+  "subtitles.entity.hoglin.ambient": "Poglin Pogs",
+  "subtitles.entity.hoglin.angry": "Poglin Pogs angrily",
+  "subtitles.entity.hoglin.attack": "Poglin *dry humps you*",
+  "subtitles.entity.hoglin.converted_to_zombified": "Poglin converts to Zoglin",
+  "subtitles.entity.hoglin.death": "Poglin Pogs for the last FUCKING time",
+  "subtitles.entity.hoglin.hurt": "Poglin Pogn'ts",
+  "subtitles.entity.hoglin.retreat": "Poglin retreats",
+  "subtitles.entity.hoglin.step": "Poglin steps",
+  "subtitles.entity.parrot.imitate.hoglin": "Parrot Pogs"
 }
