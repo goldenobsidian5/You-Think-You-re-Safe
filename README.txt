@@ -1,6 +1,11 @@
 [ == Thank you for choosing death, here's some cool info == ]
 
+DOWNLOAD BY CLICKING ON THE RELEASE TO THE RIGHT
+All you need to do is download YouThinkYoureSafe.zip and place that file into your /.minecraft/resourcepacks/ folder. Make sure to enable the pack in-game and never disable it.
+
 [ Features ]
+
+This is a meme resource pack. I reccomend going into it blind, playing minecraft normally, and finding the features yourself.
 
 Most of the things you should expect to see in this pack are included in changelog.txt, which is in the assets folder.
 It also has some things that I plan to add, future ideas, dreams, memes, etc.
