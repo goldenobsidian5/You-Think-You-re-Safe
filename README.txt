@@ -1,7 +1,14 @@
 [ == Thank you for choosing death, here's some cool info == ]
 
-DOWNLOAD BY CLICKING ON THE RELEASE TO THE RIGHT
-All you need to do is download YouThinkYoureSafe.zip and place that file into your /.minecraft/resourcepacks/ folder. Make sure to enable the pack in-game and never disable it.
+HOW TO DOWNLOAD:
+
+Click this link, and save the file to your /.minecraft/resourcepacks/ folder. Make sure to enable the pack in-game and never disable it.
+
+Please make sure that the version matches the latest, which you can find at the releases link to the right
+
+DOWNLOAD Version 0.1: https://github.com/goldenobsidian5/You-Think-You-re-Safe/releases/download/0.1/YouThinkYoureSafe.zip
+
+
 
 [ Features ]
 
@@ -11,6 +18,8 @@ Most of the things you should expect to see in this pack are included in changel
 It also has some things that I plan to add, future ideas, dreams, memes, etc.
 If you have any ideas you wanna see in this pack, speak up!
 My discord is Golden_Obsidian#0780, sapnu puas.
+
+
 
 [ Alternate textures ]
 
