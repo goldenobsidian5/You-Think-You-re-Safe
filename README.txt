@@ -4,7 +4,7 @@ HOW TO DOWNLOAD:
 
 Click this link, and save the file to your /.minecraft/resourcepacks/ folder. Make sure to enable the pack in-game and never disable it.
 
-Please make sure that the version matches the latest, which you can find at the releases link to the right
+Please make sure that the version matches the latest, which you can find at the releases link to the right.
 
 DOWNLOAD Version 0.1: https://github.com/goldenobsidian5/You-Think-You-re-Safe/releases/download/0.1/YouThinkYoureSafe.zip
 
