@@ -1,5 +1,7 @@
 [ == Thank you for choosing death, here's some cool info == ]
 
+PLEASE NOTE: This pack works best with versions 1.16.5+, if 1.17 says its not gonna work then its LYING.
+
 HOW TO DOWNLOAD:
 
 Click this link, and save the file to your /.minecraft/resourcepacks/ folder. Make sure to enable the pack in-game and never disable it.
